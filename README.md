@@ -24,8 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tharunreddypolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharunreddypolu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/polu tharun kumar reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="polu tharun kumar reddy" height="30" width="40" /></a>
-<a href="https://fb.com/tharun reddy prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharun reddy prince" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/polu-tharun-kumar-reddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="polu tharun kumar reddy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Tharunprince111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharun reddy prince" height="30" width="40" /></a>
 <a href="https://instagram.com/tharun_reddy_prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharun_reddy_prince" height="30" width="40" /></a>
 <a href="https://discord.gg/763436847296151612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="763436847296151612" height="30" width="40" /></a>
 </p>
