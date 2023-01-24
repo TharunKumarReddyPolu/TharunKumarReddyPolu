@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/polu-tharun-kumar-reddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="polu tharun kumar reddy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Tharunprince111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharun reddy prince" height="30" width="40" /></a>
 <a href="https://instagram.com/tharun_reddy_prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharun_reddy_prince" height="30" width="40" /></a>
-<a href="https://discord.gg/763436847296151612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="763436847296151612" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/763436847296151612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="763436847296151612" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
