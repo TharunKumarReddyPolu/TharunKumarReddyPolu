@@ -18,9 +18,9 @@
 
 - 👨‍💻 All of my projects are available at [https://tharunkumarreddypolu.github.io/Polu_Tharun_Kumar_Reddy/](https://tharunkumarreddypolu.github.io/Polu_Tharun_Kumar_Reddy/)
 
-- 💬 Ask me about **Python , Java, Spring , REST APIs , MySQL , OracleDB**
+- 💬 Ask me about **Python , Java, Spring , REST APIs , MySQL , OracleDB, Postman API**
 
-- 📫 How to reach me **polutharun528@gmail.com**
+- 📫 How to reach me **polutharun528@gmail.com, tharunp@terpmail.umd.edu**
 
 - ⚡ Fun fact **I think I am versatile**
 
