@@ -16,9 +16,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://tharunkumarreddypolu.github.io/Polu_Tharun_Kumar_Reddy/](https://tharunkumarreddypolu.github.io/Polu_Tharun_Kumar_Reddy/)
+- 👨‍💻 All of my projects are available at [https://tharunkumarreddypolu.github.io/Polu_Tharun_Kumar_Reddy/](https://tharunkumarreddypolu.github.io/Polu_Tharun_Kumar_Reddy/) (Currently under development)
 
-- 💬 Ask me about **Python , Java, Spring , REST APIs , MySQL , OracleDB, Postman API**
+- 💬 Ask me about **Python , Java, Spring , Django, ReactJS, REST APIs, MySQL, OracleDB, Postman API**
 
 - 📫 How to reach me **polutharun528@gmail.com, tharunp@terpmail.umd.edu**
 
