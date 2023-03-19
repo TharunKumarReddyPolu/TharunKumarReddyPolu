@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Polu Tharun Kumar Reddy</h1>
+<h1 align="center">Hello 👋, I'm Tharun Kumar Reddy Polu</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Passionate+Software+Engineer(SWE)+from+India.;Master's+in+Software+Engineering;University+of+Maryland,+College+Park;Self-taught+Back-End+Developer;Open-Source+contributor;Solving+problems+through+code;Love+to+learn+new+technologies..<3"></a>
 </p>
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tharunkumarreddypolu.github.io/](https://tharunkumarreddypolu.github.io/) (Currently under development)
 
-- 💬 Ask me about **Python , Java, Spring , Django, ReactJS, REST APIs, MySQL, OracleDB, Postman API**
+- 💬 Ask me about **Python , Java, Spring , Django, ReactJS, REST APIs, MySQL, OracleDB, Postman, SQL Developer**
 
 - 📫 How to reach me **polutharun528@gmail.com, tharunp@terpmail.umd.edu**
 
