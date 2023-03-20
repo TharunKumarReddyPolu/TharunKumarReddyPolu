@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tharunkumarreddypolu.github.io/](https://tharunkumarreddypolu.github.io/) (Currently under development)
 
-- 💬 Ask me about **Python , Java, Spring , Django, ReactJS, REST APIs, MySQL, OracleDB, Postman, SQL Developer**
+- 💬 Ask me about **Python , Java, Spring, Django, ReactJS, Microsoft Office 365, REST APIs, MySQL, OracleDB, Postman,SOAP UI, SQL Developer**
 
 - 📫 How to reach me **polutharun528@gmail.com, tharunp@terpmail.umd.edu**
 
