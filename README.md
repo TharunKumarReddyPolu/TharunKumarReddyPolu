@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/tharunreddypolu" target="blank"><img src="https://img.shields.io/twitter/follow/tharunreddypolu?logo=twitter&style=for-the-badge" alt="tharunreddypolu" /></a> </p>
 
-- 🔭 I’m currently working on **Python Backend Development**
+- 🔭 I’m currently working on **Python Backend Development and Open Source**
 
 - 🌱 I’m currently learning **Software Design Patterns, DSA**
 
