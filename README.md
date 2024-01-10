@@ -24,6 +24,8 @@
 
 - ⚡ Fun fact **I think I am versatile**
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <h3 align="left">Connect with me:</h3>
 <div align="center">
 <a href="https://github.com/TharunKumarReddyPolu" target="_blank">
