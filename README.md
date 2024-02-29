@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Amm+Passionate+Software+Engineer(SWE)+from+India.;Master's+in+Software+Engineering;University+of+Maryland,+College+Park;Self-taught+Developer;Open-Source+contributor;Solving+problems+through+code;Love+to+learn+new+technologies..<3;MLH+Prep+Fellow+March+2023;Postman+Student+Expert;Technology+Enthusiast"></a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharunkumarreddypolu&label=Profile%20views&color=0e75b6&style=flat" alt="tharunkumarreddypolu" /> </p>
