@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://tharunkumarreddypolu.github.io/](https://tharunkumarreddypolu.github.io/)
+- 👨‍💻 All of my projects are available at [https://tharunpolu.com/](https://tharunpolu.com/)
 
 - 💬 Ask me about **Python , Java, Spring, Django, ReactJS, Microsoft Office 365, REST APIs, MySQL, OracleDB, Postman,SOAP UI, SQL Developer**
 
