@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Python Backend Development and Open Source**
 
-- 🌱 I’m currently learning **Software Design Patterns, DSA**
+- 🌱 I’m currently learning **Software Design Patterns, System Design, DSA**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Python , Java, Spring, Django, ReactJS, Microsoft Office 365, REST APIs, MySQL, OracleDB, Postman,SOAP UI, SQL Developer**
 
-- 📫 How to reach me **polutharun528@gmail.com, tharunp@terpmail.umd.edu**
+- 📫 How to reach me **tharunkumarreddy.polu@gmail.com, tharunp@terpmail.umd.edu**
 
 - ⚡ Fun fact **I think I am versatile**
 
