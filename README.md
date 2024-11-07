@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/tharunreddypolu" target="blank"><img src="https://img.shields.io/twitter/follow/tharunreddypolu?logo=twitter&style=for-the-badge" alt="tharunreddypolu" /></a> </p>
 
-- 🔭 I’m currently working on **Python Backend Development and Open Source**
+- 🔭 I’m currently working on **Java with GenAI and Open Source**
 
 - 🌱 I’m currently learning **Software Design Patterns, System Design, DSA**
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tharunpolu.com/](https://tharunpolu.com/)
 
-- 💬 Ask me about **Python , Java, Spring, Django, ReactJS, Microsoft Office 365, REST APIs, MySQL, OracleDB, Postman,SOAP UI, SQL Developer**
+- 💬 Ask me about **Python, Java, Spring, Django, ReactJS, Microsoft Office 365, REST APIs, MySQL, OracleDB, Postman, SOAP UI, SQL Developer**
 
 - 📫 How to reach me **tharunkumarreddy.polu@gmail.com, tharunp@terpmail.umd.edu**
 
