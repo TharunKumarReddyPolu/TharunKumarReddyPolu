@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/tharunreddypolu" target="blank"><img src="https://img.shields.io/twitter/follow/tharunreddypolu?logo=twitter&style=for-the-badge" alt="tharunreddypolu" /></a> </p>
 
-- 🔭 I’m currently working on **Java with GenAI and Open Source**
+- 🔭 I’m currently working on **Go, System Design and Open Source**
 
-- 🌱 I’m currently learning **Software Design Patterns, System Design, DSA**
+- 🌱 I’m currently learning **Software Design Patterns, System Design**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m open to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://tharunpolu.com/](https://tharunpolu.com/)
 
